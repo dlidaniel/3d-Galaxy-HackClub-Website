@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react'
-import AstronautScene from '../assets/3d/astronaut.glb'
+import AstronautScene from '../assets/3d/Astronaut.glb'
 import { useAnimations, useGLTF } from '@react-three/drei'
 
 const Astronaut = ({ isRotating, ...props }) => {
