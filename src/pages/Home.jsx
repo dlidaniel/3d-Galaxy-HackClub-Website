@@ -7,7 +7,7 @@ import Asteroid from '../models/Asteroid'
 import { Environment } from '@react-three/drei'
 import { EffectComposer, Bloom } from '@react-three/postprocessing'
 import LambertHackClub from '../models/LambertHackClub'
-import HomeInfo from '../components/Homeinfo'
+import HomeInfo from '../components/HomeInfo'
 import Galaxy from '../components/Galaxy';
 
 <Environment preset="city" />
