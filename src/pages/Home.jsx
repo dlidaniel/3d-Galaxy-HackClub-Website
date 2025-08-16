@@ -1,6 +1,6 @@
 import { Suspense, useState } from 'react'
 import { Canvas} from '@react-three/fiber'
-import Loader from '../components/loader'
+import Loader from '../components/Loader'
 import Computer from '../models/Computer'
 import Astronaut from '../models/Astronaut'
 import Asteroid from '../models/Asteroid'
